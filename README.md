@@ -271,3 +271,6 @@ This repository serves as the official landing page for Once Human. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Once Human today!**
+
+---
+**Last updated:** 2026-09-08 17:06:06 UTC
