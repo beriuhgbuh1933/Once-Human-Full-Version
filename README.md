@@ -273,4 +273,4 @@ This repository serves as the official landing page for Once Human. The software
 **Get the most recent version of Once Human today!**
 
 ---
-**Last updated:** 2026-09-13 09:08:15 UTC
+**Last updated:** 2026-09-13 14:07:12 UTC
